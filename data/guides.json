@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "reading-a-three-decker",
+    "title": "How to read a Worcester three-decker",
+    "dek": "Stacked porches, side halls and a century of tenants. What to look at before you buy one to live in.",
+    "category": "Architecture",
+    "author": "kait-oberdorfer",
+    "date": "2026-09-24",
+    "towns": ["worcester"],
+    "photo": { "code": "PL-07", "direction": "Three-decker facades in a row, shot square from across the street on an overcast day, porches stacked like shelves; 50mm, verticals corrected." },
+    "body": [
+      ["p", "Walk almost any older Worcester neighborhood and you'll see them: tall, narrow houses with a porch on every floor, built in rows close to the street. Three-deckers were the region's answer to housing an industrial workforce from the late 1800s into the 1920s — one flat per floor, each with light on three sides and its own porch to escape the heat."],
+      ["h2", "Start with the porches"],
+      ["p", "The porches tell you most of what you need to know about how a building has been cared for. Look at the posts where they meet the deck, the condition of the railings, and whether the floors slope toward the street (they should, slightly, to shed water). Rebuilt porches with proper footings are a good sign; porches that have been enclosed may need a closer look at permits."],
+      ["h2", "Then the systems"],
+      ["p", "Many three-deckers have been converted to separate heating systems and electric meters for each unit, which matters to an owner who pays the bills. Ask which utilities are separate, how old each system is, and whether the hot water is shared."],
+      ["h2", "Living in one"],
+      ["p", "A lot of buyers live on one floor and rent the other two. That arrangement changes the math of buying, and it comes with real responsibilities as a landlord in Massachusetts. We walk through both with you — and introduce you to lenders who understand owner-occupied multi-family loans — before you write an offer."],
+      ["note", "This article is general information, not legal or financial advice. Rental rules, lead-paint obligations and lending programs have specific requirements; we'll point you to the right professional."]
+    ]
+  },
+  {
+    "slug": "under-agreement-in-massachusetts",
+    "title": "What “under agreement” means in Massachusetts",
+    "dek": "The offer, the inspection, the purchase and sale agreement and the mortgage commitment, in the order they actually happen.",
+    "category": "Buying",
+    "author": "brandon-oberdorfer",
+    "date": "2026-09-10",
+    "towns": [],
+    "photo": { "code": "PE-04", "direction": "Two people at a kitchen table reading a document together, one pointing at a line; hands and paper in focus, faces soft; window light; 50mm." },
+    "body": [
+      ["p", "Buying a house in Massachusetts happens in a particular sequence that surprises people moving from other states. Here it is in plain terms."],
+      ["h2", "1. The offer"],
+      ["p", "You make a written offer to purchase, usually with a small deposit. If the seller signs it, you have an accepted offer — a binding agreement in its own right, with contingencies and deadlines spelled out."],
+      ["h2", "2. The inspection"],
+      ["p", "Next comes the home inspection, typically within days. This is your chance to learn what you're buying and decide whether to proceed, renegotiate or walk away under the terms of the offer."],
+      ["h2", "3. The purchase and sale agreement"],
+      ["p", "Attorneys for both sides then draft the Purchase and Sale Agreement (the “P&S”), a longer contract that governs the rest of the transaction. When both parties sign it, the property is generally described as “under agreement.” A second deposit is usually due at this point."],
+      ["h2", "4. The mortgage commitment"],
+      ["p", "Your lender completes the appraisal and underwriting and issues a commitment by a date set in the P&S. That date matters: it's often when a financing contingency ends."],
+      ["h2", "5. Closing"],
+      ["p", "Finally, documents are signed, funds move, the deed is recorded, and the keys change hands. We stay with you through every one of those steps."],
+      ["note", "This is a general overview, not legal advice. Your attorney is the right person for questions about contract terms."]
+    ]
+  },
+  {
+    "slug": "before-you-list",
+    "title": "Before you list: the first thirty days",
+    "dek": "What actually moves the result when you sell, in roughly the order to do it.",
+    "category": "Selling",
+    "author": "kait-oberdorfer",
+    "date": "2026-08-27",
+    "towns": [],
+    "photo": { "code": "PR-29", "direction": "A living room mid-preparation: one chair moved, a painter's drop cloth folded on the floor, clean afternoon light on a freshly painted wall; 35mm." },
+    "body": [
+      ["p", "Most of what makes a sale go well happens before anyone sees the listing. Here is how we usually spend the first month with a seller."],
+      ["h2", "Week one: understand"],
+      ["p", "We walk the house together, then sit down with recent nearby sales and talk honestly about where your home fits. You'll leave with a pricing range and the reasoning behind it, not a single number pulled from a website."],
+      ["h2", "Week two: prepare"],
+      ["p", "We make a short list: repairs worth doing, repairs worth disclosing instead, and what to put in storage. Paint, light and less furniture do more than almost anything else."],
+      ["h2", "Week three: present"],
+      ["p", "Photography, floor plans and the written story of the house. We schedule the shoot for the light your rooms like best."],
+      ["h2", "Week four: launch"],
+      ["p", "We agree on the date, the showing plan and how offers will be handled, then go live — and you know exactly what happens next."]
+    ]
+  },
+  {
+    "slug": "a-saturday-in-grafton",
+    "title": "A Saturday in Grafton",
+    "dek": "A morning on the common, a walk in the woods and the case for a town organized into villages.",
+    "category": "Around here",
+    "author": "kait-oberdorfer",
+    "date": "2026-08-13",
+    "towns": ["grafton"],
+    "photo": { "code": "PL-08", "direction": "A trailhead sign at the edge of conservation land, morning mist in the trees beyond; 35mm." },
+    "body": [
+      ["p", "If you're trying to understand Grafton, start at the common. It's the old center of town, on a hill, surrounded by churches and houses that have been painted white for a very long time."],
+      ["p", "From there, go walk. Hassanamesit Woods has trails through conservation land with a long history, and the Willard House & Clock Museum preserves the homestead of a family of clockmakers. Then drive down into the villages and notice how different each one feels."],
+      ["p", "That's the point of Grafton: it isn't one place. If you're house-hunting here, the village matters as much as the house."]
+    ]
+  },
+  {
+    "slug": "commuting-from-central-mass",
+    "title": "Commuting from Central Mass, on one page",
+    "dek": "The train, the Pike, Route 146 and the honest version of the drive.",
+    "category": "Relocating",
+    "author": "brandon-oberdorfer",
+    "date": "2026-07-30",
+    "towns": ["worcester", "grafton", "millbury", "auburn"],
+    "photo": { "code": "PL-09", "direction": "A commuter train pulling into a station platform in early morning light, a few people waiting with coffee; 85mm." },
+    "body": [
+      ["p", "People relocating to Central Massachusetts usually ask the same question first: how hard is it to get to work?"],
+      ["h2", "By train"],
+      ["p", "The MBTA's Worcester/Framingham Line runs between Worcester's Union Station and Boston, with stops including Grafton and Westborough. Living near a station changes the calculation for a Boston commute."],
+      ["h2", "By car"],
+      ["p", "The Mass Pike runs east–west across the south of the sheet; I-290 cuts through Worcester and Shrewsbury; Route 146 runs south toward Providence through Millbury; I-395 starts in Auburn and heads toward Connecticut. Drive times depend heavily on the hour — we're happy to ride along at 8 a.m. so you can see for yourself."]
+    ]
+  },
+  {
+    "slug": "market-note-autumn",
+    "title": "Market note: what autumn usually looks like",
+    "dek": "Fewer listings, more serious buyers, and why October can be a good month to sell.",
+    "category": "Market",
+    "author": "brandon-oberdorfer",
+    "date": "2026-10-01",
+    "towns": [],
+    "photo": { "code": "PL-10", "direction": "A street of mixed houses in late October with leaves down and porch lights on at 5 pm; 35mm." },
+    "body": [
+      ["p", "In many years, Central Massachusetts sees fewer new listings as the school year settles in, while buyers who are still looking tend to be more decided. That combination can favor well-prepared sellers."],
+      ["p", "This note is a template for the team's monthly market update. In production, the figures in this section come directly from MLS data and are dated; we never publish statistics without a source."],
+      ["note", "Demonstration article. No market statistics are stated here."]
+    ]
+  }
+]

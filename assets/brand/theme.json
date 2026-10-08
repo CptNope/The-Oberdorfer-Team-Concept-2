@@ -1,0 +1,324 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "color": {
+      "defaultPalette": false,
+      "defaultGradients": false,
+      "gradients": [],
+      "palette": [
+        {
+          "slug": "paper",
+          "name": "Paper",
+          "color": "#f5f8f4"
+        },
+        {
+          "slug": "paper-deep",
+          "name": "Paper deep",
+          "color": "#e9eee6"
+        },
+        {
+          "slug": "woodland",
+          "name": "Woodland",
+          "color": "#d2e7ce"
+        },
+        {
+          "slug": "woodland-deep",
+          "name": "Woodland deep",
+          "color": "#b7d4b3"
+        },
+        {
+          "slug": "forest",
+          "name": "Forest",
+          "color": "#17482f"
+        },
+        {
+          "slug": "forest-deep",
+          "name": "Forest deep",
+          "color": "#0b2f1f"
+        },
+        {
+          "slug": "forest-tint",
+          "name": "Forest tint",
+          "color": "#b7d3bb"
+        },
+        {
+          "slug": "ink",
+          "name": "Ink",
+          "color": "#161e25"
+        },
+        {
+          "slug": "ink-soft",
+          "name": "Ink soft",
+          "color": "#424c55"
+        },
+        {
+          "slug": "ink-faint",
+          "name": "Ink faint",
+          "color": "#737b83"
+        },
+        {
+          "slug": "contour",
+          "name": "Contour",
+          "color": "#b3754f"
+        },
+        {
+          "slug": "contour-ink",
+          "name": "Contour ink",
+          "color": "#8c4823"
+        },
+        {
+          "slug": "clay",
+          "name": "Clay",
+          "color": "#eedac9"
+        },
+        {
+          "slug": "water",
+          "name": "Water",
+          "color": "#206694"
+        },
+        {
+          "slug": "water-tint",
+          "name": "Water tint",
+          "color": "#d0e5f2"
+        },
+        {
+          "slug": "water-light",
+          "name": "Water light",
+          "color": "#7db2d5"
+        },
+        {
+          "slug": "route",
+          "name": "Route",
+          "color": "#8d2521"
+        },
+        {
+          "slug": "route-deep",
+          "name": "Route deep",
+          "color": "#6c1614"
+        },
+        {
+          "slug": "route-tint",
+          "name": "Route tint",
+          "color": "#f5dad6"
+        }
+      ]
+    },
+    "typography": {
+      "defaultFontSizes": false,
+      "fluid": true,
+      "fontFamilies": [
+        {
+          "slug": "serif",
+          "name": "Besley",
+          "fontFamily": "\"Besley\", Georgia, serif",
+          "fontFace": [
+            {
+              "fontFamily": "Besley",
+              "fontWeight": "400",
+              "fontStyle": "normal",
+              "src": [
+                "file:./assets/fonts/besley-latin-400-normal.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Besley",
+              "fontWeight": "400",
+              "fontStyle": "italic",
+              "src": [
+                "file:./assets/fonts/besley-latin-400-italic.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Besley",
+              "fontWeight": "600",
+              "fontStyle": "normal",
+              "src": [
+                "file:./assets/fonts/besley-latin-600-normal.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Besley",
+              "fontWeight": "800",
+              "fontStyle": "normal",
+              "src": [
+                "file:./assets/fonts/besley-latin-800-normal.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Besley",
+              "fontWeight": "800",
+              "fontStyle": "italic",
+              "src": [
+                "file:./assets/fonts/besley-latin-800-italic.woff2"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "sans",
+          "name": "Overpass",
+          "fontFamily": "\"Overpass\", \"Helvetica Neue\", Arial, sans-serif",
+          "fontFace": [
+            {
+              "fontFamily": "Overpass",
+              "fontWeight": "100 900",
+              "fontStyle": "normal",
+              "src": [
+                "file:./assets/fonts/overpass-latin-wght-normal.woff2"
+              ]
+            },
+            {
+              "fontFamily": "Overpass",
+              "fontWeight": "100 900",
+              "fontStyle": "italic",
+              "src": [
+                "file:./assets/fonts/overpass-latin-wght-italic.woff2"
+              ]
+            }
+          ]
+        },
+        {
+          "slug": "mono",
+          "name": "Overpass Mono",
+          "fontFamily": "\"Overpass Mono\", ui-monospace, monospace",
+          "fontFace": [
+            {
+              "fontFamily": "Overpass Mono",
+              "fontWeight": "500",
+              "fontStyle": "normal",
+              "src": [
+                "file:./assets/fonts/overpass-mono-latin-500-normal.woff2"
+              ]
+            }
+          ]
+        }
+      ],
+      "fontSizes": [
+        {
+          "slug": "small",
+          "name": "small",
+          "size": "0.9375rem"
+        },
+        {
+          "slug": "body",
+          "name": "body",
+          "size": "1.0625rem"
+        },
+        {
+          "slug": "lede",
+          "name": "lede",
+          "size": "1.375rem"
+        },
+        {
+          "slug": "h3",
+          "name": "h3",
+          "size": "1.6rem"
+        },
+        {
+          "slug": "h2",
+          "name": "h2",
+          "size": "3rem"
+        },
+        {
+          "slug": "h1",
+          "name": "h1",
+          "size": "4.25rem"
+        },
+        {
+          "slug": "display",
+          "name": "display",
+          "size": "6rem"
+        }
+      ]
+    },
+    "spacing": {
+      "defaultSpacingSizes": false,
+      "spacingSizes": [
+        {
+          "slug": "20",
+          "name": "20",
+          "size": "0.5rem"
+        },
+        {
+          "slug": "30",
+          "name": "30",
+          "size": "0.75rem"
+        },
+        {
+          "slug": "40",
+          "name": "40",
+          "size": "1rem"
+        },
+        {
+          "slug": "50",
+          "name": "50",
+          "size": "1.5rem"
+        },
+        {
+          "slug": "60",
+          "name": "60",
+          "size": "2rem"
+        },
+        {
+          "slug": "70",
+          "name": "70",
+          "size": "3rem"
+        },
+        {
+          "slug": "80",
+          "name": "80",
+          "size": "4rem"
+        },
+        {
+          "slug": "90",
+          "name": "90",
+          "size": "6rem"
+        }
+      ]
+    },
+    "layout": {
+      "contentSize": "66ch",
+      "wideSize": "1520px"
+    },
+    "border": {
+      "radius": true
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "var(--wp--preset--color--paper)",
+      "text": "var(--wp--preset--color--ink)"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--sans)",
+      "fontSize": "var(--wp--preset--font-size--body)",
+      "lineHeight": "1.6"
+    },
+    "elements": {
+      "heading": {
+        "typography": {
+          "fontFamily": "var(--wp--preset--font-family--serif)",
+          "fontWeight": "600"
+        }
+      },
+      "link": {
+        "color": {
+          "text": "var(--wp--preset--color--water)"
+        }
+      },
+      "button": {
+        "color": {
+          "background": "var(--wp--preset--color--route)",
+          "text": "var(--wp--preset--color--paper)"
+        },
+        "border": {
+          "radius": "2px"
+        },
+        "typography": {
+          "fontWeight": "700"
+        }
+      }
+    }
+  }
+}

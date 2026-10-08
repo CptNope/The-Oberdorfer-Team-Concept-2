@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "brandon-oberdorfer",
+    "name": "Brandon Oberdorfer",
+    "first": "Brandon",
+    "role": "Team Lead",
+    "license": "Massachusetts Real Estate Broker",
+    "order": 1,
+    "lead": true,
+    "intro": "Brandon leads the team and runs the part of every move that happens on paper: pricing, offers, negotiation and the long middle between an accepted offer and the closing table.",
+    "bio": [
+      "Brandon started The Oberdorfer Team with Kait on a simple premise: people should be able to reach the person handling their move, and that person should know the ground. He holds a Massachusetts broker license and spends most of his week either walking houses or on the phone with lenders, attorneys and other agents keeping deals on track.",
+      "He is most useful when the stakes feel high: a first offer in a competitive month, a sale that has to line up with a purchase, an inspection report that needs a calm read. Clients describe him the way you'd describe a good contractor: he tells you what it will take, then does it.",
+      "Outside of work you'll find him on the rail trail, at a WooSox game, or arguing about the best breakfast spot on Route 9."
+    ],
+    "bioStatus": "Draft bio written for the concept — to be rewritten with Brandon.",
+    "areas": ["worcester", "shrewsbury", "holden", "auburn"],
+    "specialties": ["Pricing & negotiation", "First-time buyers", "Sell-and-buy timing", "Multi-family"],
+    "credentials": ["Massachusetts Real Estate Broker", "[License number]", "[Designations, if any]"],
+    "phone": "508-555-0141",
+    "email": "brandon@oberdorferteam.com",
+    "social": [{ "label": "Instagram", "url": "#" }, { "label": "LinkedIn", "url": "#" }],
+    "portrait": { "code": "PE-01", "direction": "Brandon on the front walk of a listing, mid-sentence, turned three-quarters toward someone off-frame; overcast October light; 85mm, waist up." },
+    "quote": "Most of this job is telling people the truth early, while it's still useful."
+  },
+  {
+    "slug": "kait-oberdorfer",
+    "name": "Kait Oberdorfer",
+    "first": "Kait",
+    "role": "Partner",
+    "license": "[Licensing to confirm]",
+    "order": 2,
+    "lead": true,
+    "intro": "Kait is the team's guide to places. She plans tours, knows which streets flood and which ones have the good sidewalks, and writes most of the Field Guide.",
+    "bio": [
+      "Kait co-founded The Oberdorfer Team and runs how the team works with people from the first conversation on. She plans showing days so they make sense on a map, prepares sellers' homes for photographs, and keeps notes on towns the way other people keep recipes.",
+      "Her favorite clients are the ones who aren't sure yet. She'll spend an afternoon driving three towns with someone relocating from out of state, then send a page of notes on what they saw: where the town center is, what the houses on the side streets look like, how long the drive to Worcester really took at 8 a.m.",
+      "She writes the team's Field Guide and is responsible for most of its opinions about coffee."
+    ],
+    "bioStatus": "Draft bio written for the concept — role, licensing and bio to be confirmed with Kait.",
+    "areas": ["shrewsbury", "grafton", "millbury", "worcester"],
+    "specialties": ["Relocation", "Preparing homes to sell", "Tour planning", "Local guides"],
+    "credentials": ["[License / role to confirm]"],
+    "phone": "508-555-0142",
+    "email": "kait@oberdorferteam.com",
+    "social": [{ "label": "Instagram", "url": "#" }],
+    "portrait": { "code": "PE-02", "direction": "Kait at a kitchen island with a notebook open, a client's hands in the foreground; window light from the left; 50mm, eye level, unposed." },
+    "quote": "A town makes sense once you've seen where people actually go on a Saturday."
+  },
+  {
+    "slug": "jane-smith",
+    "name": "Jane Smith",
+    "first": "Jane",
+    "role": "Buyer's Agent",
+    "license": "Massachusetts Real Estate Salesperson",
+    "order": 3,
+    "lead": false,
+    "example": true,
+    "intro": "Example profile. This page shows how a new team member appears once they're added in the CMS — same system, their own voice.",
+    "bio": [
+      "This is a sample agent profile created to demonstrate how the site grows. When a new agent joins, the team adds a single Agent entry in WordPress — name, portrait, areas, specialties, contact details — and this page, their row in the team directory, their listings and their articles are assembled automatically.",
+      "Leads that start on this page are attributed to Jane and routed by the team's rules: to Jane directly, to a team lead, or to whoever is on call that day."
+    ],
+    "bioStatus": "Fictional example agent.",
+    "areas": ["worcester", "auburn", "millbury"],
+    "specialties": ["First-time buyers", "Condominiums"],
+    "credentials": ["Massachusetts Real Estate Salesperson", "[License number]"],
+    "phone": "508-555-0143",
+    "email": "jane@oberdorferteam.com",
+    "social": [],
+    "portrait": { "code": "PE-03", "direction": "Jane on a front porch steps with a tablet showing a floor plan, looking out at the street; late afternoon; 50mm." },
+    "quote": "Example quote: the profile system supports a short line in the agent's own words."
+  }
+]

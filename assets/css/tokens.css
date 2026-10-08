@@ -1,0 +1,91 @@
+/* ==========================================================================
+   The Oberdorfer Team — design tokens
+   World: the quadrangle sheet. Paper, contour, woodland, water, route.
+   Source of truth for the brand book, the concept site and the WP theme.json.
+   ========================================================================== */
+
+@font-face { font-family: "Besley"; src: url("../fonts/besley-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Besley"; src: url("../fonts/besley-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; }
+@font-face { font-family: "Besley"; src: url("../fonts/besley-latin-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Besley"; src: url("../fonts/besley-latin-800-normal.woff2") format("woff2"); font-weight: 800; font-style: normal; font-display: swap; }
+@font-face { font-family: "Besley"; src: url("../fonts/besley-latin-800-italic.woff2") format("woff2"); font-weight: 800; font-style: italic; font-display: swap; }
+@font-face { font-family: "Overpass"; src: url("../fonts/overpass-latin-wght-normal.woff2") format("woff2-variations"); font-weight: 100 900; font-style: normal; font-display: swap; }
+@font-face { font-family: "Overpass"; src: url("../fonts/overpass-latin-wght-italic.woff2") format("woff2-variations"); font-weight: 100 900; font-style: italic; font-display: swap; }
+/* Overpass sets the middle dot tight against the next word; borrow Besley's for that one glyph */
+@font-face { font-family: "Overpass"; src: url("../fonts/besley-latin-400-normal.woff2") format("woff2"); unicode-range: U+00B7; font-weight: 100 900; font-display: swap; }
+@font-face { font-family: "Overpass Mono"; src: url("../fonts/overpass-mono-latin-500-normal.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+
+:root {
+  color-scheme: light;
+
+  /* ---- Color: layers of the sheet (OKLCH; hex fallbacks in the brand book) */
+  --paper:        oklch(97.6% 0.006 135);   /* #f5f8f4  the sheet */
+  --paper-deep:   oklch(94.4% 0.012 135);   /* #e9eee6  collar, panels */
+  --woodland:     oklch(90.5% 0.04 140);    /* #d2e7ce  woodland tint field */
+  --woodland-deep:oklch(84% 0.055 142);     /* #b7d4b3 */
+  --forest:       oklch(36% 0.068 158);     /* #17482f  brand field */
+  --forest-deep:  oklch(27.5% 0.052 160);   /* #0b2f1f */
+  --forest-tint:  oklch(84% 0.045 150);     /* #b7d3bb  secondary text on forest */
+  --ink:          oklch(23% 0.018 245);     /* #161e25  culture ink */
+  --ink-soft:     oklch(41% 0.02 245);      /* #424c55  secondary text */
+  --ink-faint:    oklch(58% 0.015 245);     /* #737b83  large text / marks only */
+  --contour:      oklch(62% 0.095 52);      /* #b3754f  contour linework */
+  --contour-ink:  oklch(48% 0.105 47);      /* #8c4823  contour-colored text */
+  --clay:         oklch(90% 0.032 62);      /* #eedac9  property tint */
+  --water:        oklch(49% 0.1 242);       /* #206694  links, information */
+  --water-tint:   oklch(91% 0.028 235);     /* #d0e5f2  people tint */
+  --water-light:  oklch(74% 0.075 238);     /* #7db2d5  water on dark */
+  --route:        oklch(43% 0.14 27);       /* #8d2521  primary routes, actions */
+  --route-deep:   oklch(35% 0.12 27);       /* #6c1614 */
+  --route-tint:   oklch(91% 0.03 30);       /* #f5dad6 */
+
+  --rule:         oklch(23% 0.018 245 / 0.16);
+  --rule-strong:  oklch(23% 0.018 245 / 0.55);
+  --halo:         var(--paper);             /* map-lettering halo */
+
+  /* ---- Type */
+  --f-serif: "Besley", "Iowan Old Style", Georgia, serif;
+  --f-sans:  "Overpass", "Helvetica Neue", Arial, sans-serif;
+  --f-mono:  "Overpass Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+
+  --t-display: clamp(3.25rem, 1.6rem + 6.2vw, 6rem);
+  --t-h1:      clamp(2.5rem, 1.55rem + 3.6vw, 4.25rem);
+  --t-h2:      clamp(1.85rem, 1.35rem + 1.9vw, 3rem);
+  --t-h3:      clamp(1.3rem, 1.15rem + 0.55vw, 1.6rem);
+  --t-lede:    clamp(1.15rem, 1.06rem + 0.4vw, 1.375rem);
+  --t-body:    1.0625rem;
+  --t-small:   0.9375rem;
+  --t-label:   0.8125rem;
+  --t-price:   clamp(1.75rem, 1.45rem + 1.1vw, 2.5rem);
+
+  --lh-tight: 1.04;
+  --lh-snug:  1.18;
+  --lh-body:  1.6;
+  --track-town: 0.32em;       /* map convention: populated places in spaced roman caps */
+  --track-label: 0.08em;
+
+  /* ---- Space (4px base, map-margin rhythm) */
+  --s-1: 0.25rem; --s-2: 0.5rem; --s-3: 0.75rem; --s-4: 1rem; --s-5: 1.5rem;
+  --s-6: 2rem; --s-7: 3rem; --s-8: 4rem; --s-9: 6rem; --s-10: 8rem;
+  --section: clamp(4rem, 2.5rem + 6vw, 8rem);
+  --collar: clamp(10px, 2.6vw, 40px);       /* page margin = the sheet collar */
+  --gutter: clamp(16px, 2.2vw, 32px);
+  --max: 1520px;
+  --measure: 66ch;
+
+  /* ---- Line & edge */
+  --neatline: 1.5px;
+  --hair: 1px;
+  --radius: 2px;                            /* paper has corners */
+
+  /* ---- Depth: paper lifted off the table, never floating cards */
+  --lift-1: 0 1px 0 oklch(23% 0.018 245 / 0.06), 0 6px 18px -10px oklch(23% 0.018 245 / 0.28);
+  --lift-2: 0 2px 0 oklch(23% 0.018 245 / 0.05), 0 22px 48px -24px oklch(23% 0.018 245 / 0.42);
+
+  /* ---- Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);       /* exponential-ish out */
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --d-fast: 160ms; --d-base: 320ms; --d-slow: 700ms; --d-draw: 1800ms;
+
+  --focus: var(--water);
+}

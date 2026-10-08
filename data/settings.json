@@ -1,0 +1,41 @@
+{
+  "_comment": "Brokerage and compliance settings. This is the ONLY file that changes if the team's brokerage affiliation changes. Maps to a WordPress options page (Settings → Brokerage).",
+  "team": {
+    "name": "The Oberdorfer Team",
+    "shortName": "Oberdorfer Team",
+    "tagline": "Let's find your place.",
+    "region": "Central Massachusetts",
+    "domain": "oberdorferteam.com",
+    "domainNote": "Placeholder domain — not yet registered or confirmed.",
+    "email": "hello@oberdorferteam.com",
+    "phone": "508-555-0140",
+    "phoneNote": "555-01xx numbers are reserved fictional numbers used for demonstration."
+  },
+  "brokerage": {
+    "legalName": "REWAP Brokerage LLC",
+    "displayName": "REWAP Brokerage",
+    "city": "Worcester",
+    "state": "MA",
+    "address": "[Brokerage street address], Worcester, MA",
+    "phone": "[Brokerage office phone]",
+    "url": "https://rewapbrokerage.com",
+    "principalBroker": "[Principal broker name]",
+    "licenseNote": "[Brokerage license number, if required]"
+  },
+  "attribution": {
+    "header": "at REWAP Brokerage",
+    "footer": "The Oberdorfer Team is a real estate team brokered by REWAP Brokerage LLC, Worcester, Massachusetts. Each team member is licensed in the Commonwealth of Massachusetts and affiliated with REWAP Brokerage LLC.",
+    "agent": "{name} is a member of The Oberdorfer Team, brokered by REWAP Brokerage LLC.",
+    "property": "Presented by The Oberdorfer Team · REWAP Brokerage LLC",
+    "listingCourtesy": "Listing courtesy of {listingOffice}",
+    "contact": "Your note goes to The Oberdorfer Team at REWAP Brokerage LLC. We reply personally, usually the same day.",
+    "disclosure": "Real estate brokerage services are provided by REWAP Brokerage LLC. The Oberdorfer Team is not a separate brokerage. Equal Housing Opportunity."
+  },
+  "idx": {
+    "provider": "[IDX vendor — undecided]",
+    "mls": "MLS PIN",
+    "disclaimer": "Listing information is deemed reliable but not guaranteed and should be independently verified. [Exact MLS PIN IDX disclaimer text to be supplied by the IDX vendor.]",
+    "demoNotice": "Every listing on this concept site is a fictional sample. Addresses, prices, photographs and details do not describe real properties."
+  },
+  "fairHousing": "We are committed to the letter and spirit of the federal Fair Housing Act and Massachusetts fair housing law. Our neighborhood information describes places and housing, never who lives there."
+}

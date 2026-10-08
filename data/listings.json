@@ -1,0 +1,148 @@
+[
+  {
+    "id": "OBT-1001", "slug": "128-chester-hill-road-holden", "address": "128 Chester Hill Road", "town": "holden", "zip": "01520",
+    "price": 689000, "status": "Active", "openHouse": "Sun, Oct 11 · 12–2 pm", "type": "Single family", "style": "Colonial Revival",
+    "year": 1928, "beds": 4, "baths": 2.5, "sqft": 2640, "lot": 0.92, "garage": "Detached, 2 cars", "heat": "Oil, hot water", "taxes": 8920,
+    "mls": "7300101", "listingOffice": "REWAP Brokerage LLC", "agent": "brandon-oberdorfer", "x": 0.22, "y": 0.25,
+    "story": true, "storyTitle": "The house on the hill road",
+    "storyDek": "A 1928 Colonial Revival that has watched the same maples turn for almost a hundred autumns.",
+    "story_body": [
+      "Chester Hill Road climbs out of Holden Center the old way, following a stone wall rather than a surveyor's line. Number 128 sits where the road levels off, set back behind two sugar maples that were clearly here before the driveway.",
+      "Inside, the house keeps its original order: a center hall, a front parlor with a wide fireplace, a dining room that actually fits a table. The kitchen was rebuilt with restraint, keeping the pantry and adding a window over the sink that looks straight into the woods.",
+      "Upstairs, four bedrooms open off a square landing. The fourth, over the garage wing, has its own stair down to the mudroom: an office, a guest room or a teenager's kingdom."
+    ],
+    "features": ["Original center-hall plan", "Wood-burning fireplace", "Renovated kitchen with pantry", "Detached two-car garage with loft", "Stone walls and mature maples", "Fourth bedroom with back stair"],
+    "photos": [
+      { "code": "PR-01", "kind": "property", "direction": "Front elevation at golden hour from the end of the drive, both maples framing the door; 35mm, level verticals." },
+      { "code": "PR-02", "kind": "property", "direction": "Front parlor, fireplace lit, late-afternoon light across the floorboards; 24mm from the hall doorway." },
+      { "code": "PR-03", "kind": "property", "direction": "Kitchen window over the sink, woods beyond, a kettle on the stove; 35mm, available light." },
+      { "code": "PR-04", "kind": "property", "direction": "Detail: original door hardware and the worn tread at the foot of the stair; 50mm macro." },
+      { "code": "PR-05", "kind": "property", "direction": "Rear yard toward the stone wall in October, leaves on the grass; 24mm." }
+    ]
+  },
+  {
+    "id": "OBT-1002", "slug": "6-shore-walk-shrewsbury", "address": "6 Shore Walk", "town": "shrewsbury", "zip": "01545",
+    "price": 574000, "status": "Open house", "openHouse": "Sat, Oct 10 · 11 am–1 pm", "type": "Single family", "style": "Mid-century ranch",
+    "year": 1957, "beds": 3, "baths": 2, "sqft": 1720, "lot": 0.31, "garage": "Attached, 1 car", "heat": "Gas, forced air", "taxes": 6410,
+    "mls": "7300102", "listingOffice": "REWAP Brokerage LLC", "agent": "kait-oberdorfer", "x": 0.585, "y": 0.33,
+    "story": true, "storyTitle": "Low roof, long view",
+    "storyDek": "A 1957 ranch two streets up from Lake Quinsigamond, renovated by someone who liked it the way it was.",
+    "story_body": [
+      "The best thing about 6 Shore Walk is the line of the roof: low, long and unbothered, the way mid-century builders drew houses when they expected the yard to do some of the work.",
+      "The renovation kept that. The living room's wall of windows is new glass in the original openings; the kitchen opened toward it rather than swallowing it. Floors are white oak throughout, and the primary suite was carved from the old den without adding a bump-out.",
+      "Walk two streets down and you're at the water. Rowers are out early most mornings from spring to fall."
+    ],
+    "features": ["Original window wall, new glazing", "White oak floors", "Open kitchen facing the yard", "Primary suite with full bath", "Two streets from the lake", "Gas heat and central air"],
+    "photos": [
+      { "code": "PR-06", "kind": "property", "direction": "Street elevation emphasizing the long roofline, early morning, lawn in shadow; 28mm shift." },
+      { "code": "PR-07", "kind": "property", "direction": "Living room window wall with the yard beyond, mid-morning; 24mm from the kitchen." },
+      { "code": "PR-08", "kind": "property", "direction": "Kitchen island toward the living room, one stool pulled out; 35mm." },
+      { "code": "PR-09", "kind": "property", "direction": "The walk to the lake: street sign and the water at the end of the road; 50mm." }
+    ]
+  },
+  {
+    "id": "OBT-1003", "slug": "17-linden-court-worcester", "address": "17 Linden Court", "town": "worcester", "zip": "01609",
+    "price": 749000, "status": "Active", "openHouse": null, "type": "Multi-family (3 units)", "style": "Three-decker",
+    "year": 1912, "beds": 6, "baths": 3, "sqft": 3900, "lot": 0.12, "garage": "Off-street parking, 4 spaces", "heat": "Gas, separate systems", "taxes": 7380,
+    "mls": "7300103", "listingOffice": "REWAP Brokerage LLC", "agent": "brandon-oberdorfer", "x": 0.37, "y": 0.44,
+    "story": false,
+    "features": ["Three 2-bedroom units", "Separate utilities", "Front and rear porches on every floor", "Owner-occupant friendly", "Off-street parking"],
+    "photos": [
+      { "code": "PR-10", "kind": "property", "direction": "Full facade from across the street, porches stacked, overcast light; 28mm shift, verticals level." },
+      { "code": "PR-11", "kind": "property", "direction": "Second-floor front porch looking down the street; 24mm." },
+      { "code": "PR-12", "kind": "property", "direction": "Typical unit living room with bay window; 24mm." }
+    ]
+  },
+  {
+    "id": "OBT-1004", "slug": "14-common-way-grafton", "address": "14 Common Way", "town": "grafton", "zip": "01519",
+    "price": 715000, "status": "Active", "openHouse": "Sun, Oct 11 · 1–3 pm", "type": "Single family", "style": "Greek Revival",
+    "year": 1840, "beds": 4, "baths": 2, "sqft": 2300, "lot": 0.6, "garage": "Carriage barn", "heat": "Oil, steam", "taxes": 8150,
+    "mls": "7300104", "listingOffice": "REWAP Brokerage LLC", "agent": "kait-oberdorfer", "x": 0.77, "y": 0.66,
+    "story": true, "storyTitle": "On the common",
+    "storyDek": "An 1840 Greek Revival a short walk from Grafton Common, gable to the street the way the builders intended.",
+    "story_body": [
+      "Greek Revival houses face the street with their gable end, like a temple front made of clapboard. Number 14 does it with unusual confidence: wide corner boards, a full entablature and a door surround that has been painted, by our count, at least nine colors.",
+      "The rooms are tall and square. Two parlors connect through a wide opening; the kitchen sits in the ell behind, where it always was. A carriage barn at the back of the lot has been a workshop for decades.",
+      "The common is a short walk away. On a weekend in fall, that walk is most of the reason people move here."
+    ],
+    "features": ["Gable-front Greek Revival", "Double parlors", "Kitchen in the original ell", "Carriage barn workshop", "Walk to Grafton Common", "Wide-pine floors"],
+    "photos": [
+      { "code": "PR-13", "kind": "property", "direction": "Gable-front facade square-on, crisp morning shadow from the entablature; 50mm, centered." },
+      { "code": "PR-14", "kind": "property", "direction": "Double parlors through the wide opening, afternoon light; 24mm." },
+      { "code": "PR-15", "kind": "property", "direction": "Carriage barn interior, tools on pegboard, door open to the yard; 35mm." },
+      { "code": "PR-16", "kind": "property", "direction": "The walk from the front door to the common, church steeple in view; 35mm." }
+    ]
+  },
+  {
+    "id": "OBT-1005", "slug": "88-mill-race-lane-millbury", "address": "88 Mill Race Lane", "town": "millbury", "zip": "01527",
+    "price": 419000, "status": "Active", "openHouse": null, "type": "Single family", "style": "Victorian",
+    "year": 1891, "beds": 3, "baths": 1.5, "sqft": 1560, "lot": 0.18, "garage": "None, driveway parking", "heat": "Gas, hot water", "taxes": 4720,
+    "mls": "7300105", "listingOffice": "REWAP Brokerage LLC", "agent": "jane-smith", "x": 0.50, "y": 0.77,
+    "story": false,
+    "features": ["Original trim and pocket doors", "Updated half bath", "Front porch", "Walk to the river"],
+    "photos": [
+      { "code": "PR-17", "kind": "property", "direction": "Front porch and gable trim, late afternoon; 35mm." },
+      { "code": "PR-18", "kind": "property", "direction": "Pocket doors half open between rooms; 35mm." }
+    ]
+  },
+  {
+    "id": "OBT-1006", "slug": "3-pakachoag-view-auburn", "address": "3 Pakachoag View", "town": "auburn", "zip": "01501",
+    "price": 489000, "status": "Under agreement", "openHouse": null, "type": "Single family", "style": "Split-level",
+    "year": 1968, "beds": 4, "baths": 2, "sqft": 1980, "lot": 0.41, "garage": "Attached, 2 cars", "heat": "Gas, forced air", "taxes": 5630,
+    "mls": "7300106", "listingOffice": "[Other brokerage]", "agent": "brandon-oberdorfer", "x": 0.30, "y": 0.72,
+    "story": false,
+    "features": ["Finished lower level", "Two-car garage", "Fenced back yard", "Near Route 12 and I-290"],
+    "photos": [
+      { "code": "PR-19", "kind": "property", "direction": "Split-level from the street, spring maples; 35mm." },
+      { "code": "PR-20", "kind": "property", "direction": "Lower-level family room, sliding door to the yard; 24mm." }
+    ]
+  },
+  {
+    "id": "OBT-1007", "slug": "foundry-lofts-4b-worcester", "address": "4B Foundry Lofts", "town": "worcester", "zip": "01604",
+    "price": 435000, "status": "Active", "openHouse": "Sat, Oct 10 · 2–4 pm", "type": "Condominium", "style": "Loft",
+    "year": 1889, "beds": 2, "baths": 2, "sqft": 1240, "lot": null, "garage": "Deeded parking, 1 space", "heat": "Electric, heat pump", "taxes": 4980,
+    "mls": "7300107", "listingOffice": "REWAP Brokerage LLC", "agent": "jane-smith", "x": 0.45, "y": 0.53, "hoa": 385,
+    "story": false,
+    "features": ["14-foot ceilings", "Original brick and timber", "Heat-pump heating and cooling", "Walk to the Canal District"],
+    "photos": [
+      { "code": "PR-21", "kind": "property", "direction": "Loft interior: brick wall, timber beams, tall windows; 24mm from the entry." },
+      { "code": "PR-22", "kind": "property", "direction": "Building exterior at dusk, upper windows lit; 35mm." }
+    ]
+  },
+  {
+    "id": "OBT-1008", "slug": "61-stonewall-road-holden", "address": "61 Stonewall Road", "town": "holden", "zip": "01520",
+    "price": 612000, "status": "Active", "openHouse": null, "type": "Single family", "style": "Colonial",
+    "year": 1985, "beds": 4, "baths": 2.5, "sqft": 2450, "lot": 2.1, "garage": "Attached, 2 cars", "heat": "Oil, forced air", "taxes": 7790,
+    "mls": "7300108", "listingOffice": "REWAP Brokerage LLC", "agent": "brandon-oberdorfer", "x": 0.18, "y": 0.18,
+    "story": false,
+    "features": ["2.1 wooded acres", "Screened porch", "Two-car garage", "Generator hookup"],
+    "photos": [
+      { "code": "PR-23", "kind": "property", "direction": "House seen through trees from the drive, autumn; 50mm." },
+      { "code": "PR-24", "kind": "property", "direction": "Screened porch into the woods, evening; 24mm." }
+    ]
+  },
+  {
+    "id": "OBT-1009", "slug": "9-orchard-bend-grafton", "address": "9 Orchard Bend", "town": "grafton", "zip": "01536",
+    "price": 629900, "status": "Coming soon", "openHouse": null, "type": "Single family", "style": "Contemporary cape",
+    "year": 2019, "beds": 3, "baths": 2.5, "sqft": 2180, "lot": 0.5, "garage": "Attached, 2 cars", "heat": "Gas, forced air", "taxes": 7260,
+    "mls": "7300109", "listingOffice": "REWAP Brokerage LLC", "agent": "kait-oberdorfer", "x": 0.74, "y": 0.58,
+    "story": false,
+    "features": ["Built 2019", "First-floor primary suite", "Unfinished walkout basement", "Close to Grafton Station"],
+    "photos": [
+      { "code": "PR-25", "kind": "property", "direction": "Front elevation, midday, clean lawn edge; 35mm." },
+      { "code": "PR-26", "kind": "property", "direction": "Open plan from the stair landing; 24mm." }
+    ]
+  },
+  {
+    "id": "OBT-1010", "slug": "27-ridgeline-drive-shrewsbury", "address": "27 Ridgeline Drive", "town": "shrewsbury", "zip": "01545",
+    "price": 899000, "status": "Coming soon", "openHouse": null, "type": "Single family", "style": "Colonial",
+    "year": 2004, "beds": 4, "baths": 3.5, "sqft": 3120, "lot": 0.72, "garage": "Attached, 3 cars", "heat": "Gas, forced air", "taxes": 10340,
+    "mls": "7300110", "listingOffice": "REWAP Brokerage LLC", "agent": "brandon-oberdorfer", "x": 0.74, "y": 0.27,
+    "story": false,
+    "features": ["Finished walkout lower level", "Three-car garage", "Home office with built-ins", "Cul-de-sac location"],
+    "photos": [
+      { "code": "PR-27", "kind": "property", "direction": "Front elevation from the cul-de-sac, late day; 35mm." },
+      { "code": "PR-28", "kind": "property", "direction": "Kitchen to family room, evening lamps on; 24mm." }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "buying": {
+    "title": "The route to buying",
+    "intro": "Seven stops from first look to keys. The climb is in the middle; we carry the heavy parts.",
+    "stations": [
+      { "id": "explore", "name": "Explore", "h": 0.18, "what": "Look widely: towns, streets and homes. Save what catches you, without commitment.", "us": "We help you narrow towns by how you actually live, not by a price filter alone.", "guide": "commuting-from-central-mass", "action": { "label": "Start a search", "href": "search/" } },
+      { "id": "save", "name": "Save", "h": 0.24, "what": "Build a shortlist and a saved search so new homes find you first.", "us": "We set up alerts that match what you told us, and send notes on the ones worth a drive.", "action": { "label": "See saved homes", "href": "saved/" } },
+      { "id": "tour", "name": "Tour", "h": 0.38, "what": "See homes in person, in an order that makes sense on a map.", "us": "We plan the day, point out what photographs hide and walk the street with you.", "action": { "label": "Schedule a showing", "href": "contact/?intent=showing" } },
+      { "id": "evaluate", "name": "Evaluate", "h": 0.55, "what": "Compare the homes you love against recent sales and what each will cost to own.", "us": "We pull comparable sales and give you a plain read on value and condition.", "guide": "reading-a-three-decker" },
+      { "id": "offer", "name": "Offer", "h": 0.86, "what": "Write a written offer to purchase with terms that protect you.", "us": "We shape price and terms with you, then talk with the listing agent directly.", "guide": "under-agreement-in-massachusetts" },
+      { "id": "navigate", "name": "Navigate", "h": 0.72, "what": "Inspection, purchase and sale agreement, appraisal, mortgage commitment.", "us": "We keep every deadline and coordinate your attorney, lender and inspector.", "guide": "under-agreement-in-massachusetts" },
+      { "id": "close", "name": "Close", "h": 0.42, "what": "Final walkthrough, signing, recording, keys.", "us": "We're there for the walkthrough and the table, and after, when you need a plumber's number." }
+    ]
+  },
+  "selling": {
+    "title": "The route to selling",
+    "intro": "Six stops from first conversation to closing. Most of the result is decided before the listing goes live.",
+    "stations": [
+      { "id": "understand", "name": "Understand", "h": 0.2, "what": "What your home is worth to this market, and why.", "us": "We walk the house, study recent sales and explain a pricing range with our reasoning.", "action": { "label": "Ask for a pricing conversation", "href": "selling/#consult" } },
+      { "id": "prepare", "name": "Prepare", "h": 0.4, "what": "Repairs worth doing, repairs worth disclosing, and what goes into storage.", "us": "We make the list with you and bring in painters, cleaners and stagers when they're worth it.", "guide": "before-you-list" },
+      { "id": "position", "name": "Position", "h": 0.58, "what": "Price, timing and the story the listing will tell.", "us": "We choose a launch date around the market and your next move." },
+      { "id": "launch", "name": "Launch", "h": 0.7, "what": "Photography, the property story, showings and open houses.", "us": "We schedule the shoot for the light your rooms like and run every showing." },
+      { "id": "negotiate", "name": "Negotiate", "h": 0.88, "what": "Offers, terms, inspection requests and the purchase and sale agreement.", "us": "We compare offers on more than price and negotiate in plain view of you." },
+      { "id": "close", "name": "Close", "h": 0.45, "what": "Appraisal, final walkthrough, signing and handing over the keys.", "us": "We coordinate attorneys and timing so your sale and your next home line up." }
+    ]
+  },
+  "attributes": [
+    { "id": "more-space", "label": "More space", "symbol": "area" },
+    { "id": "older-homes", "label": "Older homes", "symbol": "hatch" },
+    { "id": "newer-construction", "label": "Newer construction", "symbol": "solid" },
+    { "id": "larger-lots", "label": "Larger lots", "symbol": "parcel" },
+    { "id": "walkable-center", "label": "Walkable center", "symbol": "dot" },
+    { "id": "closer-to-worcester", "label": "Closer to Worcester", "symbol": "ring" },
+    { "id": "commuter-rail", "label": "Commuter rail", "symbol": "rail" }
+  ]
+}

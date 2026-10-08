@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "worcester",
+    "name": "Worcester",
+    "county": "Worcester County",
+    "lede": "New England's second-largest city, built on hills, mills and three-deckers, and still remaking itself one block at a time.",
+    "overview": [
+      "Worcester is the center of gravity for everything on this sheet. Its neighborhoods range from the Victorian streets around Elm Park to the brick lofts of the Canal District, and almost every one of them has its own main street, its own diner and its own opinion about the others.",
+      "For buyers, the city offers the widest spread of housing in the region: condos and lofts near downtown, single-family homes on the West Side and in Tatnuck, and the three-deckers that line whole streets in the older neighborhoods. Many people buy their first home here, and many buy a three-decker to live in one floor and rent the other two."
+    ],
+    "housing": [
+      { "type": "Three-deckers", "note": "Stacked flats with front and back porches, built for the city's industrial workforce from the late 1800s." },
+      { "type": "Victorian & Colonial Revival", "note": "Larger single-family homes concentrated on the West Side and around the parks." },
+      { "type": "Mid-century capes & ranches", "note": "Post-war neighborhoods toward the city's edges, often on modest lots." },
+      { "type": "Lofts & condominiums", "note": "Converted industrial buildings and newer construction downtown and in the Canal District." }
+    ],
+    "places": [
+      { "name": "Elm Park", "note": "Among the oldest public parks in the country, with a pond and footbridges." },
+      { "name": "Worcester Art Museum", "note": "An encyclopedic collection in the middle of the city." },
+      { "name": "Canal District", "note": "Restaurants and bars in old brick, and Polar Park, home of the WooSox." },
+      { "name": "Union Station", "note": "Restored Beaux-Arts station and the city's commuter-rail stop." },
+      { "name": "Broad Meadow Brook", "note": "Mass Audubon's wildlife sanctuary, inside city limits." },
+      { "name": "Green Hill Park", "note": "One of the city's largest parks, with a golf course and trails." }
+    ],
+    "getting": [
+      "MBTA Worcester/Framingham Line and Amtrak at Union Station",
+      "I-290, I-190 and Route 146 run through the city; the Mass Pike is minutes south",
+      "Worcester Regional Airport (ORH) on the city's western hills"
+    ],
+    "attributes": ["older-homes", "walkable-center", "closer-to-worcester", "commuter-rail"],
+    "adjoining": { "n": ["holden", "West Boylston"], "e": ["shrewsbury"], "s": ["millbury", "auburn"], "w": ["Leicester", "Paxton"] },
+    "photo": { "code": "PL-01", "direction": "Looking down a West Side street of three-deckers in winter light, porches stacked like a ladder, one lit window; 35mm from the sidewalk." },
+    "agents": ["brandon-oberdorfer", "kait-oberdorfer", "jane-smith"],
+    "market": { "median": "$412,000", "dom": "19", "inventory": "1.4 mo", "trend": [61, 63, 64, 66, 68, 70, 71, 73] }
+  },
+  {
+    "slug": "shrewsbury",
+    "name": "Shrewsbury",
+    "county": "Worcester County",
+    "lede": "A town on the east shore of Lake Quinsigamond, with a historic center and neighborhoods that climb away from the water.",
+    "overview": [
+      "Shrewsbury sits directly east of Worcester across Lake Quinsigamond. Route 9 and Route 20 carry most of its traffic and commerce, while the town center keeps the older New England plan of church, library and common.",
+      "Housing runs from lakeside cottages and mid-century ranches near the water to larger colonials in newer subdivisions on the town's hills. Buyers often come here wanting a suburban street with a short drive into Worcester."
+    ],
+    "housing": [
+      { "type": "Lakeside homes", "note": "Cottages and mid-century houses near the shore, many expanded or renovated." },
+      { "type": "Colonials", "note": "Two-story homes from the 1980s onward in subdivisions across the town." },
+      { "type": "Capes & ranches", "note": "Post-war houses on established streets closer to the center." },
+      { "type": "Condominiums", "note": "Townhouse communities, several near Route 9 and Route 20." }
+    ],
+    "places": [
+      { "name": "Lake Quinsigamond", "note": "Rowing, swimming and the long view back toward Worcester." },
+      { "name": "Dean Park", "note": "Ponds, fields and walking paths near the center of town." },
+      { "name": "Prospect Park", "note": "Wooded trails on the town's higher ground." },
+      { "name": "Town center", "note": "The common, the library and a cluster of older homes." }
+    ],
+    "getting": [
+      "Route 9 and Route 20 run east–west through town",
+      "I-290 crosses the north side of town",
+      "Nearest commuter rail at Grafton or Westborough stations"
+    ],
+    "attributes": ["closer-to-worcester", "more-space", "newer-construction"],
+    "adjoining": { "n": ["Boylston"], "e": ["Northborough", "Westborough"], "s": ["grafton"], "w": ["worcester"] },
+    "photo": { "code": "PL-02", "direction": "Lake Quinsigamond from the Shrewsbury shore at first light, a single rowing shell crossing, Worcester's hills soft in the haze; 85mm." },
+    "agents": ["brandon-oberdorfer", "kait-oberdorfer"],
+    "market": { "median": "$645,000", "dom": "16", "inventory": "1.2 mo", "trend": [58, 60, 62, 63, 66, 68, 69, 72] }
+  },
+  {
+    "slug": "grafton",
+    "name": "Grafton",
+    "county": "Worcester County",
+    "lede": "A town of villages: a classic common on the hill, mill villages along the water, and a commuter-rail station in the north.",
+    "overview": [
+      "Grafton is organized around several villages rather than one center. Grafton Center, on its hill, has one of the region's best-preserved town commons, ringed by churches and 18th- and 19th-century houses. Mill villages grew along the rivers, and North Grafton has the town's MBTA station.",
+      "The housing mix follows that history: antique homes near the common, mill-era houses in the villages, and newer neighborhoods on former farmland. It's a common answer for buyers who want space, character and a train."
+    ],
+    "housing": [
+      { "type": "Antique homes", "note": "Federal, Greek Revival and Victorian houses around the common and in the villages." },
+      { "type": "Mill-village houses", "note": "Smaller worker houses and duplexes along the rivers." },
+      { "type": "Newer construction", "note": "Subdivisions and townhouse communities from the 1990s onward." },
+      { "type": "Larger lots", "note": "Rural roads with acreage in the town's outer areas." }
+    ],
+    "places": [
+      { "name": "Grafton Common", "note": "The town's historic green, with events through the year." },
+      { "name": "Hassanamesit Woods", "note": "Conservation land with trails and history." },
+      { "name": "Willard House & Clock Museum", "note": "The 18th-century homestead of the Willard clockmakers." },
+      { "name": "Grafton Station", "note": "The MBTA Worcester Line stop in North Grafton." }
+    ],
+    "getting": [
+      "MBTA Worcester/Framingham Line at Grafton Station",
+      "Route 140 and Route 122 connect the villages",
+      "Quick access to Route 146 via Millbury and Sutton"
+    ],
+    "attributes": ["older-homes", "more-space", "larger-lots", "newer-construction", "commuter-rail"],
+    "adjoining": { "n": ["shrewsbury", "Westborough"], "e": ["Upton"], "s": ["Northbridge", "Sutton"], "w": ["millbury"] },
+    "photo": { "code": "PL-03", "direction": "Grafton Common in late October, low sun raking across the grass toward the white church; long shadows, no people centered; 35mm, eye level." },
+    "agents": ["kait-oberdorfer"],
+    "market": { "median": "$598,000", "dom": "21", "inventory": "1.6 mo", "trend": [55, 57, 58, 61, 62, 64, 65, 67] }
+  },
+  {
+    "slug": "holden",
+    "name": "Holden",
+    "county": "Worcester County",
+    "lede": "Higher ground northwest of the city: woods, reservoirs, stone walls and a compact town center.",
+    "overview": [
+      "Holden rises toward the hills northwest of Worcester. It's one of the larger towns on this sheet by area, with a lot of it still wooded, and it borders the Wachusett watershed lands.",
+      "Most homes are single-family, from older capes near Holden Center to colonials on wooded lots along winding roads. People come here for room, trees and a quieter street, with Worcester a short drive down the hill."
+    ],
+    "housing": [
+      { "type": "Colonials on wooded lots", "note": "1970s–2000s homes set back from the road." },
+      { "type": "Capes & ranches", "note": "Mid-century houses on established streets near the center." },
+      { "type": "Older farmhouses & antiques", "note": "Scattered along the older roads, often with stone walls." },
+      { "type": "Newer construction", "note": "Limited, typically in small subdivisions." }
+    ],
+    "places": [
+      { "name": "Holden Center", "note": "The town hall, the Gale Free Library and a short walkable stretch." },
+      { "name": "Trout Brook Reservation", "note": "Trails, a brook and old stone walls in the woods." },
+      { "name": "Eagle Lake", "note": "A small lake with a town beach area." },
+      { "name": "Mass Central Rail Trail", "note": "Sections of the regional trail run through town." }
+    ],
+    "getting": [
+      "Route 122A, Route 31 and Route 68 meet near the center",
+      "I-190 is a short drive east",
+      "Downtown Worcester roughly 20 minutes by car, traffic permitting"
+    ],
+    "attributes": ["more-space", "larger-lots"],
+    "adjoining": { "n": ["Princeton", "Sterling"], "e": ["West Boylston", "worcester"], "s": ["Paxton"], "w": ["Rutland"] },
+    "photo": { "code": "PL-04", "direction": "A stone wall running into birch woods off a Holden back road, first snow on the wall's top course; flat winter light; 50mm, low angle." },
+    "agents": ["brandon-oberdorfer"],
+    "market": { "median": "$565,000", "dom": "18", "inventory": "1.3 mo", "trend": [57, 58, 60, 61, 63, 64, 66, 68] }
+  },
+  {
+    "slug": "auburn",
+    "name": "Auburn",
+    "county": "Worcester County",
+    "lede": "Where the highways meet, and where a professor launched the first liquid-fueled rocket from a cabbage field in 1926.",
+    "overview": [
+      "Auburn borders Worcester to the south and sits where I-290, I-395, Route 12 and Route 20 come together near the Mass Pike, which makes it one of the most convenient towns on the sheet for driving in any direction.",
+      "Its neighborhoods are mostly single-family: capes, ranches and split-levels from the post-war decades, with some newer homes on the town's edges. Robert Goddard's 1926 rocket launch site, on Pakachoag Hill, is marked at the golf course there."
+    ],
+    "housing": [
+      { "type": "Capes & ranches", "note": "Post-war single-family homes on established streets." },
+      { "type": "Split-levels", "note": "1960s–70s houses, often with finished lower levels." },
+      { "type": "Colonials", "note": "Later subdivisions toward the south and west." },
+      { "type": "Condominiums", "note": "A handful of townhouse communities near the main roads." }
+    ],
+    "places": [
+      { "name": "Goddard launch site", "note": "A marker on Pakachoag Hill where the first liquid-fueled rocket flew, March 16, 1926." },
+      { "name": "Pakachoag Hill", "note": "Views north toward Worcester." },
+      { "name": "Route 12 & Route 20", "note": "Everyday shopping and services." }
+    ],
+    "getting": [
+      "I-290, I-395 and the Mass Pike meet in town",
+      "Route 12 and Route 20 for local trips",
+      "Union Station in Worcester for the train"
+    ],
+    "attributes": ["closer-to-worcester", "more-space"],
+    "adjoining": { "n": ["worcester"], "e": ["millbury"], "s": ["Oxford"], "w": ["Leicester", "Charlton"] },
+    "photo": { "code": "PL-05", "direction": "A split-level on a quiet Auburn street in early spring, a kid's bike on the lawn, maples just budding; 35mm from across the road." },
+    "agents": ["brandon-oberdorfer", "jane-smith"],
+    "market": { "median": "$455,000", "dom": "17", "inventory": "1.3 mo", "trend": [56, 57, 59, 61, 62, 64, 66, 67] }
+  },
+  {
+    "slug": "millbury",
+    "name": "Millbury",
+    "county": "Worcester County",
+    "lede": "A Blackstone River town with mill history, a hilltop mansion and one of the region's key highway interchanges.",
+    "overview": [
+      "Millbury lies just south of Worcester along the Blackstone River, the river that powered the valley's early industry. Its older villages grew around mills, and the Asa Waters Mansion still overlooks the center.",
+      "Route 146 and the Mass Pike meet here, so Millbury attracts buyers who need to reach Worcester, Providence and Boston. Housing includes mill-era homes, mid-century neighborhoods and newer subdivisions."
+    ],
+    "housing": [
+      { "type": "Mill-era houses", "note": "Victorian-era homes and duplexes in the older villages." },
+      { "type": "Capes & ranches", "note": "Post-war single-family streets." },
+      { "type": "Newer construction", "note": "Subdivisions from the 1990s onward." },
+      { "type": "Homes near water", "note": "Houses around Dorothy Pond and along the river." }
+    ],
+    "places": [
+      { "name": "Asa Waters Mansion", "note": "An 1820s Federal-style mansion, now an event and community space." },
+      { "name": "Blackstone River", "note": "The working river of the valley's industrial history." },
+      { "name": "Dorothy Pond", "note": "A pond with homes around its shore and a small beach." }
+    ],
+    "getting": [
+      "Route 146 and the Mass Pike interchange is in town",
+      "Downtown Worcester a short drive north on Route 146",
+      "Grafton Station is the nearest commuter rail"
+    ],
+    "attributes": ["older-homes", "closer-to-worcester", "newer-construction"],
+    "adjoining": { "n": ["worcester"], "e": ["grafton"], "s": ["Sutton"], "w": ["auburn"] },
+    "photo": { "code": "PL-06", "direction": "Brick mill windows along the Blackstone at dusk, interior lights on in a converted floor, river moving below; 35mm, slow shutter." },
+    "agents": ["kait-oberdorfer", "jane-smith"],
+    "market": { "median": "$448,000", "dom": "20", "inventory": "1.5 mo", "trend": [54, 56, 57, 59, 60, 62, 63, 65] }
+  }
+]

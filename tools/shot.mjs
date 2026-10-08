@@ -1,0 +1,10 @@
+import { chromium } from 'playwright';
+const [,, url, out, w = '1440', h = '900', full = '0', reduce = '1'] = process.argv;
+const b = await chromium.launch({ executablePath: '/opt/google/chrome/chrome', args: ['--no-sandbox'] });
+const p = await b.newPage({ viewport: { width: +w, height: +h }, reducedMotion: reduce === '1' ? 'reduce' : 'no-preference', deviceScaleFactor: 1 });
+const errs = []; p.on('console', m => { if (m.type() === 'error') errs.push(m.text()); }); p.on('pageerror', e => errs.push(e.message));
+await p.goto(url, { waitUntil: 'networkidle' });
+await p.waitForTimeout(600);
+await p.screenshot({ path: out, fullPage: full === '1' });
+if (errs.length) console.log('ERRORS', errs.join('\n'));
+await b.close();

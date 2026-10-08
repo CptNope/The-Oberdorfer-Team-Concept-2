@@ -1,0 +1,659 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-08T16:05:14.015Z",
+  "title": "Design System: The Oberdorfer Team · Concept 2 \"The Quadrangle\"",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Survey Paper",
+        "canonical": "oklch(97.6% 0.006 135)",
+        "hex": "#f5f8f4",
+        "tonalRamp": [
+          "oklch(15% 0.004 135)",
+          "oklch(25% 0.006 135)",
+          "oklch(35% 0.006 135)",
+          "oklch(45% 0.006 135)",
+          "oklch(60% 0.006 135)",
+          "oklch(75% 0.006 135)",
+          "oklch(87% 0.003 135)",
+          "oklch(95% 0.003 135)"
+        ]
+      },
+      "paper-deep": {
+        "role": "neutral",
+        "displayName": "Collar Paper",
+        "canonical": "oklch(94.4% 0.012 135)",
+        "hex": "#e9eee6",
+        "tonalRamp": [
+          "oklch(15% 0.008 135)",
+          "oklch(25% 0.012 135)",
+          "oklch(35% 0.012 135)",
+          "oklch(45% 0.012 135)",
+          "oklch(60% 0.012 135)",
+          "oklch(75% 0.012 135)",
+          "oklch(87% 0.005 135)",
+          "oklch(95% 0.005 135)"
+        ]
+      },
+      "woodland": {
+        "role": "tertiary",
+        "displayName": "Woodland Tint",
+        "canonical": "oklch(90.5% 0.04 140)",
+        "hex": "#d2e7ce",
+        "tonalRamp": [
+          "oklch(15% 0.028 140)",
+          "oklch(25% 0.040 140)",
+          "oklch(35% 0.040 140)",
+          "oklch(45% 0.040 140)",
+          "oklch(60% 0.040 140)",
+          "oklch(75% 0.040 140)",
+          "oklch(87% 0.018 140)",
+          "oklch(95% 0.018 140)"
+        ]
+      },
+      "woodland-deep": {
+        "role": "tertiary",
+        "displayName": "Deep Woodland Tint",
+        "canonical": "oklch(84% 0.055 142)",
+        "hex": "#b7d4b3",
+        "tonalRamp": [
+          "oklch(15% 0.038 142)",
+          "oklch(25% 0.055 142)",
+          "oklch(35% 0.055 142)",
+          "oklch(45% 0.055 142)",
+          "oklch(60% 0.055 142)",
+          "oklch(75% 0.055 142)",
+          "oklch(87% 0.025 142)",
+          "oklch(95% 0.025 142)"
+        ]
+      },
+      "forest": {
+        "role": "primary",
+        "displayName": "Quad Forest",
+        "canonical": "oklch(36% 0.068 158)",
+        "hex": "#17482f",
+        "tonalRamp": [
+          "oklch(15% 0.048 158)",
+          "oklch(25% 0.068 158)",
+          "oklch(35% 0.068 158)",
+          "oklch(45% 0.068 158)",
+          "oklch(60% 0.068 158)",
+          "oklch(75% 0.068 158)",
+          "oklch(87% 0.031 158)",
+          "oklch(95% 0.031 158)"
+        ]
+      },
+      "forest-deep": {
+        "role": "primary",
+        "displayName": "Deep Forest",
+        "canonical": "oklch(27.5% 0.052 160)",
+        "hex": "#0b2f1f",
+        "tonalRamp": [
+          "oklch(15% 0.036 160)",
+          "oklch(25% 0.052 160)",
+          "oklch(35% 0.052 160)",
+          "oklch(45% 0.052 160)",
+          "oklch(60% 0.052 160)",
+          "oklch(75% 0.052 160)",
+          "oklch(87% 0.023 160)",
+          "oklch(95% 0.023 160)"
+        ]
+      },
+      "forest-tint": {
+        "role": "primary",
+        "displayName": "Forest Tint",
+        "canonical": "oklch(84% 0.045 150)",
+        "hex": "#b7d3bb",
+        "tonalRamp": [
+          "oklch(15% 0.032 150)",
+          "oklch(25% 0.045 150)",
+          "oklch(35% 0.045 150)",
+          "oklch(45% 0.045 150)",
+          "oklch(60% 0.045 150)",
+          "oklch(75% 0.045 150)",
+          "oklch(87% 0.020 150)",
+          "oklch(95% 0.020 150)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Culture Ink",
+        "canonical": "oklch(23% 0.018 245)",
+        "hex": "#161e25",
+        "tonalRamp": [
+          "oklch(15% 0.013 245)",
+          "oklch(25% 0.018 245)",
+          "oklch(35% 0.018 245)",
+          "oklch(45% 0.018 245)",
+          "oklch(60% 0.018 245)",
+          "oklch(75% 0.018 245)",
+          "oklch(87% 0.008 245)",
+          "oklch(95% 0.008 245)"
+        ]
+      },
+      "ink-soft": {
+        "role": "neutral",
+        "displayName": "Soft Ink",
+        "canonical": "oklch(41% 0.02 245)",
+        "hex": "#424c55",
+        "tonalRamp": [
+          "oklch(15% 0.014 245)",
+          "oklch(25% 0.020 245)",
+          "oklch(35% 0.020 245)",
+          "oklch(45% 0.020 245)",
+          "oklch(60% 0.020 245)",
+          "oklch(75% 0.020 245)",
+          "oklch(87% 0.009 245)",
+          "oklch(95% 0.009 245)"
+        ]
+      },
+      "ink-faint": {
+        "role": "neutral",
+        "displayName": "Faint Ink",
+        "canonical": "oklch(58% 0.015 245)",
+        "hex": "#737b83",
+        "tonalRamp": [
+          "oklch(15% 0.010 245)",
+          "oklch(25% 0.015 245)",
+          "oklch(35% 0.015 245)",
+          "oklch(45% 0.015 245)",
+          "oklch(60% 0.015 245)",
+          "oklch(75% 0.015 245)",
+          "oklch(87% 0.007 245)",
+          "oklch(95% 0.007 245)"
+        ]
+      },
+      "contour": {
+        "role": "tertiary",
+        "displayName": "Contour Clay",
+        "canonical": "oklch(62% 0.095 52)",
+        "hex": "#b3754f",
+        "tonalRamp": [
+          "oklch(15% 0.066 52)",
+          "oklch(25% 0.095 52)",
+          "oklch(35% 0.095 52)",
+          "oklch(45% 0.095 52)",
+          "oklch(60% 0.095 52)",
+          "oklch(75% 0.095 52)",
+          "oklch(87% 0.043 52)",
+          "oklch(95% 0.043 52)"
+        ]
+      },
+      "contour-ink": {
+        "role": "tertiary",
+        "displayName": "Contour Ink",
+        "canonical": "oklch(48% 0.105 47)",
+        "hex": "#8c4823",
+        "tonalRamp": [
+          "oklch(15% 0.073 47)",
+          "oklch(25% 0.105 47)",
+          "oklch(35% 0.105 47)",
+          "oklch(45% 0.105 47)",
+          "oklch(60% 0.105 47)",
+          "oklch(75% 0.105 47)",
+          "oklch(87% 0.047 47)",
+          "oklch(95% 0.047 47)"
+        ]
+      },
+      "clay": {
+        "role": "tertiary",
+        "displayName": "Clay Plate",
+        "canonical": "oklch(90% 0.032 62)",
+        "hex": "#eedac9",
+        "tonalRamp": [
+          "oklch(15% 0.022 62)",
+          "oklch(25% 0.032 62)",
+          "oklch(35% 0.032 62)",
+          "oklch(45% 0.032 62)",
+          "oklch(60% 0.032 62)",
+          "oklch(75% 0.032 62)",
+          "oklch(87% 0.014 62)",
+          "oklch(95% 0.014 62)"
+        ]
+      },
+      "water": {
+        "role": "tertiary",
+        "displayName": "Water Blue",
+        "canonical": "oklch(49% 0.1 242)",
+        "hex": "#206694",
+        "tonalRamp": [
+          "oklch(15% 0.070 242)",
+          "oklch(25% 0.100 242)",
+          "oklch(35% 0.100 242)",
+          "oklch(45% 0.100 242)",
+          "oklch(60% 0.100 242)",
+          "oklch(75% 0.100 242)",
+          "oklch(87% 0.045 242)",
+          "oklch(95% 0.045 242)"
+        ]
+      },
+      "water-tint": {
+        "role": "tertiary",
+        "displayName": "Water Tint",
+        "canonical": "oklch(91% 0.028 235)",
+        "hex": "#d0e5f2",
+        "tonalRamp": [
+          "oklch(15% 0.020 235)",
+          "oklch(25% 0.028 235)",
+          "oklch(35% 0.028 235)",
+          "oklch(45% 0.028 235)",
+          "oklch(60% 0.028 235)",
+          "oklch(75% 0.028 235)",
+          "oklch(87% 0.013 235)",
+          "oklch(95% 0.013 235)"
+        ]
+      },
+      "water-light": {
+        "role": "tertiary",
+        "displayName": "Water on Dark",
+        "canonical": "oklch(74% 0.075 238)",
+        "hex": "#7db2d5",
+        "tonalRamp": [
+          "oklch(15% 0.052 238)",
+          "oklch(25% 0.075 238)",
+          "oklch(35% 0.075 238)",
+          "oklch(45% 0.075 238)",
+          "oklch(60% 0.075 238)",
+          "oklch(75% 0.075 238)",
+          "oklch(87% 0.034 238)",
+          "oklch(95% 0.034 238)"
+        ]
+      },
+      "route": {
+        "role": "secondary",
+        "displayName": "Route Oxblood",
+        "canonical": "oklch(43% 0.14 27)",
+        "hex": "#8d2521",
+        "tonalRamp": [
+          "oklch(15% 0.098 27)",
+          "oklch(25% 0.140 27)",
+          "oklch(35% 0.140 27)",
+          "oklch(45% 0.140 27)",
+          "oklch(60% 0.140 27)",
+          "oklch(75% 0.140 27)",
+          "oklch(87% 0.063 27)",
+          "oklch(95% 0.063 27)"
+        ]
+      },
+      "route-deep": {
+        "role": "secondary",
+        "displayName": "Deep Route",
+        "canonical": "oklch(35% 0.12 27)",
+        "hex": "#6c1614",
+        "tonalRamp": [
+          "oklch(15% 0.084 27)",
+          "oklch(25% 0.120 27)",
+          "oklch(35% 0.120 27)",
+          "oklch(45% 0.120 27)",
+          "oklch(60% 0.120 27)",
+          "oklch(75% 0.120 27)",
+          "oklch(87% 0.054 27)",
+          "oklch(95% 0.054 27)"
+        ]
+      },
+      "route-tint": {
+        "role": "secondary",
+        "displayName": "Route Tint",
+        "canonical": "oklch(91% 0.03 30)",
+        "hex": "#f5dad6",
+        "tonalRamp": [
+          "oklch(15% 0.021 30)",
+          "oklch(25% 0.030 30)",
+          "oklch(35% 0.030 30)",
+          "oklch(45% 0.030 30)",
+          "oklch(60% 0.030 30)",
+          "oklch(75% 0.030 30)",
+          "oklch(87% 0.013 30)",
+          "oklch(95% 0.013 30)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Hairline Rule",
+        "canonical": "oklch(23% 0.018 245 / 0.16)"
+      },
+      "rule-strong": {
+        "role": "neutral",
+        "displayName": "Strong Rule",
+        "canonical": "oklch(23% 0.018 245 / 0.55)"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Homepage opening, story heroes, agent names. Italic turn in 800 italic forest."
+      },
+      "h1": {
+        "displayName": "Headline 1",
+        "purpose": "Page heads, property title, forest-band and conversation heads; italic 400 turn."
+      },
+      "h2": {
+        "displayName": "Headline 2",
+        "purpose": "Section heads across 7 of 12 columns."
+      },
+      "h3": {
+        "displayName": "Title",
+        "purpose": "Property sections, feature titles, journey panels."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Opening and page ledes in Besley, 31–40ch."
+      },
+      "voice": {
+        "displayName": "Editorial Voice",
+        "purpose": "Signed property stories, town overviews, articles; forest drop cap."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Overpass UI and reading copy at 17px / 1.6, 66ch."
+      },
+      "small": {
+        "displayName": "Small",
+        "purpose": "Meta, notes, captions."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Legend titles, table heads, data dt, footer column heads."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "All buttons and segmented controls."
+      },
+      "town": {
+        "displayName": "Map Lettering · Town",
+        "purpose": "Populated places in spaced roman caps (0.32em) with paper halo over terrain."
+      },
+      "water-name": {
+        "displayName": "Map Lettering · Water",
+        "purpose": "Lakes and rivers in Besley italic, water blue, rotated along the feature."
+      },
+      "price": {
+        "displayName": "Price",
+        "purpose": "Listing prices, lining figures."
+      },
+      "address": {
+        "displayName": "Address",
+        "purpose": "Listing addresses in rows, cards and titles."
+      },
+      "facts": {
+        "displayName": "Facts",
+        "purpose": "Beds/baths/area/lot, tabular; units in 400 ink-soft."
+      },
+      "code": {
+        "displayName": "Identifier",
+        "purpose": "Coordinates, photo codes, lens, MLS numbers, station numbers. Overpass Mono only."
+      }
+    },
+    "lines": [
+      {
+        "name": "neatline",
+        "value": "1.5px",
+        "purpose": "Outer frame of the sheet and of every grouped block (legend, data block, sheet index, dialogs)."
+      },
+      {
+        "name": "hair",
+        "value": "1px",
+        "purpose": "Interior rules between rows and cells (ink or rule)."
+      },
+      {
+        "name": "focus",
+        "value": "2.5px solid var(--water), offset 3px",
+        "purpose": "Universal focus ring; paper on forest and route grounds."
+      }
+    ],
+    "shadows": [
+      {
+        "name": "lift-1",
+        "value": "0 1px 0 oklch(23% 0.018 245 / 0.06), 0 6px 18px -10px oklch(23% 0.018 245 / 0.28)",
+        "purpose": "Search map price pins."
+      },
+      {
+        "name": "lift-2",
+        "value": "0 2px 0 oklch(23% 0.018 245 / 0.05), 0 22px 48px -24px oklch(23% 0.018 245 / 0.42)",
+        "purpose": "Place card, modal, toast, floating map toggle."
+      },
+      {
+        "name": "halo",
+        "value": "0 0 2px var(--paper), 0 0 4px var(--paper), 0 0 10px var(--paper), 0 0 18px var(--paper)",
+        "purpose": "Text-shadow for map lettering over terrain only."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Default for every reveal, lift and transform."
+      },
+      {
+        "name": "ease-in-out",
+        "value": "cubic-bezier(0.65, 0, 0.35, 1)",
+        "purpose": "Reserved symmetric ease."
+      },
+      {
+        "name": "d-fast",
+        "value": "160ms",
+        "purpose": "Color, border and background state changes."
+      },
+      {
+        "name": "d-base",
+        "value": "320ms",
+        "purpose": "Arrow nudges, nav underline, dialogs, place card, toast."
+      },
+      {
+        "name": "d-slow",
+        "value": "700ms",
+        "purpose": "Town lift clip circle."
+      },
+      {
+        "name": "d-draw",
+        "value": "1800ms",
+        "purpose": "Contour draw-in (index lines 2200ms after 240ms; water appears at 900ms)."
+      },
+      {
+        "name": "frame-reveal",
+        "value": "clip-path inset 1100ms ease-out",
+        "purpose": "Photo frames open top-down once on entry."
+      },
+      {
+        "name": "view-transition",
+        "value": "380ms ease-out",
+        "purpose": "Cross-document sheet transitions."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "filters-dialog",
+        "value": "1180px"
+      },
+      {
+        "name": "nav-menu",
+        "value": "1080px"
+      },
+      {
+        "name": "property-stack",
+        "value": "1000px"
+      },
+      {
+        "name": "opening-strip",
+        "value": "900px"
+      },
+      {
+        "name": "grid-stack",
+        "value": "860px"
+      },
+      {
+        "name": "ticks-hide",
+        "value": "720px"
+      },
+      {
+        "name": "form-stack",
+        "value": "560px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Route Button",
+      "kind": "button",
+      "refersTo": "button-route",
+      "description": "The one primary action per view.",
+      "html": "<button class=\"ds-btn ds-btn-route\">Schedule a showing <svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" aria-hidden=\"true\"><path d=\"M4 12h15M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"square\"/></svg></button>",
+      "css": ".ds-btn { display:inline-flex; align-items:center; gap:0.6em; min-height:48px; padding:0.7em 1.25em 0.62em; font:700 0.9375rem/1.1 \"Overpass\",\"Helvetica Neue\",Arial,sans-serif; letter-spacing:0.01em; border-radius:2px; cursor:pointer; transition:background-color 160ms, color 160ms, border-color 160ms, transform 160ms cubic-bezier(0.16,1,0.3,1); } .ds-btn svg { transition: transform 320ms cubic-bezier(0.16,1,0.3,1); } .ds-btn:hover { transform: translateY(-1px); } .ds-btn:hover svg { transform: translateX(3px); } .ds-btn:focus-visible { outline: 2.5px solid #206694; outline-offset: 3px; } .ds-btn-route { background:#8d2521; color:#f5f8f4; border:1.5px solid #8d2521; } .ds-btn-route:hover { background:#6c1614; border-color:#6c1614; } .ds-btn-route:focus-visible { outline-color:#161e25; }"
+    },
+    {
+      "name": "Line Button",
+      "kind": "button",
+      "refersTo": "button-line",
+      "description": "Secondary action on paper.",
+      "html": "<button class=\"ds-btn-line\">Ask about this home</button>",
+      "css": ".ds-btn-line { display:inline-flex; align-items:center; min-height:48px; padding:0.7em 1.25em 0.62em; font:700 0.9375rem/1.1 \"Overpass\",\"Helvetica Neue\",Arial,sans-serif; background:transparent; color:#161e25; border:1.5px solid #161e25; border-radius:2px; cursor:pointer; transition:background-color 160ms, color 160ms, transform 160ms cubic-bezier(0.16,1,0.3,1); } .ds-btn-line:hover { background:#161e25; color:#f5f8f4; transform:translateY(-1px); } .ds-btn-line:focus-visible { outline:2.5px solid #206694; outline-offset:3px; }"
+    },
+    {
+      "name": "Link Arrow",
+      "kind": "custom",
+      "description": "Secondary next step: ink text, route underline, arrow.",
+      "html": "<a class=\"ds-link-arrow\" href=\"#\">The Shrewsbury sheet <svg viewBox=\"0 0 24 24\" width=\"17\" height=\"17\" aria-hidden=\"true\"><path d=\"M4 12h15M13 6l6 6-6 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"square\"/></svg></a>",
+      "css": ".ds-link-arrow { display:inline-flex; align-items:center; gap:0.4em; font:700 1rem/1.3 \"Overpass\",Arial,sans-serif; color:#161e25; text-decoration:none; border-bottom:1.5px solid #8d2521; padding-bottom:2px; } .ds-link-arrow svg { transition: transform 320ms cubic-bezier(0.16,1,0.3,1); } .ds-link-arrow:hover svg { transform: translateX(3px); } .ds-link-arrow:focus-visible { outline:2.5px solid #206694; outline-offset:3px; }"
+    },
+    {
+      "name": "Legend Entry",
+      "kind": "nav",
+      "description": "Map-legend choice: symbol, Besley name, Overpass note, arrow. Homepage intents and filters.",
+      "html": "<nav class=\"ds-legend\"><div class=\"ds-legend-title\">Where are you headed?</div><a class=\"ds-legend-link\" href=\"#\"><svg class=\"ds-sym\" viewBox=\"0 0 52 14\" aria-hidden=\"true\"><line x1=\"2\" y1=\"7\" x2=\"50\" y2=\"7\" stroke=\"#8d2521\" stroke-width=\"3\"/></svg><span><span class=\"ds-legend-name\">Buying</span><span class=\"ds-legend-note\">Find a home and get through the offer.</span></span><span aria-hidden=\"true\">→</span></a><a class=\"ds-legend-link\" href=\"#\"><svg class=\"ds-sym\" viewBox=\"0 0 52 14\" aria-hidden=\"true\"><path d=\"M2 9c6-6 10-6 16 0s10 6 16 0 10-6 16 0\" fill=\"none\" stroke=\"#b3754f\" stroke-width=\"1.8\"/></svg><span><span class=\"ds-legend-name\">Exploring</span><span class=\"ds-legend-note\">Browse towns and homes, no rush.</span></span><span aria-hidden=\"true\">→</span></a></nav>",
+      "css": ".ds-legend { border:1.5px solid #161e25; background:#f5f8f4; max-width:420px; } .ds-legend-title { padding:0.85rem 1rem 0.7rem; border-bottom:1px solid #161e25; font:italic 400 1.25rem/1.2 \"Besley\",Georgia,serif; color:#161e25; } .ds-legend-link { display:grid; grid-template-columns:44px 1fr auto; align-items:center; gap:0.75rem; padding:0.8rem 1rem; min-height:56px; color:#161e25; text-decoration:none; transition:background-color 160ms; } .ds-legend-link + .ds-legend-link { border-top:1px solid oklch(23% 0.018 245 / 0.16); } .ds-legend-link:hover { background:#e9eee6; } .ds-legend-link:focus-visible { outline:2.5px solid #206694; outline-offset:-3px; } .ds-sym { width:44px; height:14px; } .ds-legend-name { display:block; font:600 1.1875rem/1.2 \"Besley\",Georgia,serif; } .ds-legend-note { display:block; margin-top:2px; font:400 0.9375rem/1.35 \"Overpass\",Arial,sans-serif; color:#424c55; }"
+    },
+    {
+      "name": "Legend Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Legend entry as a toggle filter; selected fills forest.",
+      "html": "<div class=\"ds-chips\"><button class=\"ds-chip\" aria-pressed=\"true\"><svg viewBox=\"0 0 52 14\" width=\"22\" height=\"12\" aria-hidden=\"true\"><rect x=\"2\" y=\"2\" width=\"48\" height=\"10\" fill=\"#d2e7ce\" stroke=\"#17482f\" stroke-width=\"1.2\"/></svg>More space</button><button class=\"ds-chip\" aria-pressed=\"false\"><svg viewBox=\"0 0 52 14\" width=\"22\" height=\"12\" aria-hidden=\"true\"><circle cx=\"26\" cy=\"7\" r=\"4.5\" fill=\"#8d2521\"/></svg>Walkable center</button></div>",
+      "css": ".ds-chips { display:flex; flex-wrap:wrap; gap:0.5rem; } .ds-chip { display:inline-flex; align-items:center; gap:0.55rem; min-height:40px; padding:0.35rem 0.85rem 0.3rem 0.6rem; border:1.5px solid oklch(23% 0.018 245 / 0.55); background:#f5f8f4; color:#161e25; border-radius:2px; font:600 0.9rem/1.1 \"Overpass\",Arial,sans-serif; cursor:pointer; transition:background-color 160ms, border-color 160ms, color 160ms; } .ds-chip:hover { border-color:#161e25; } .ds-chip[aria-pressed=\"true\"] { background:#17482f; border-color:#17482f; color:#f5f8f4; } .ds-chip:focus-visible { outline:2.5px solid #206694; outline-offset:3px; }"
+    },
+    {
+      "name": "Survey Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Bottom-ruled field, no box; focus and error turn the rule route.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-email\">Email</label><input id=\"ds-email\" type=\"email\" placeholder=\"you@example.com\"></div>",
+      "css": ".ds-field { display:grid; gap:0.4rem; max-width:360px; } .ds-field label { font:700 0.875rem/1.3 \"Overpass\",Arial,sans-serif; color:#161e25; } .ds-field input { font:500 1rem/1.4 \"Overpass\",Arial,sans-serif; color:#161e25; background:#f5f8f4; border:0; border-bottom:1.5px solid #161e25; border-radius:0; padding:0.7rem 0 0.55rem; min-height:48px; transition:border-color 160ms, box-shadow 160ms; } .ds-field input::placeholder { color:#737b83; } .ds-field input:focus { outline:none; border-color:#8d2521; box-shadow:0 1.5px 0 0 #8d2521; }"
+    },
+    {
+      "name": "Top Collar Nav",
+      "kind": "nav",
+      "description": "Sticky header outside the neatline: lockup with attribution, Overpass links with route underline.",
+      "html": "<header class=\"ds-collar\"><span class=\"ds-lockup\"><span class=\"ds-name\"><i>The</i> <b>Oberdorfer</b> <i>Team</i></span><span class=\"ds-attr\">at REWAP Brokerage</span></span><nav class=\"ds-nav\"><a href=\"#\" aria-current=\"page\">Homes</a><a href=\"#\">Towns</a><a href=\"#\">Buying</a></nav></header>",
+      "css": ".ds-collar { display:flex; align-items:center; gap:1.5rem; min-height:72px; padding-inline:16px; background:#f5f8f4; border-bottom:1px solid oklch(23% 0.018 245 / 0.16); } .ds-name { display:block; font-family:\"Besley\",Georgia,serif; font-size:1.1875rem; line-height:1.05; color:#161e25; } .ds-name i { font-weight:400; } .ds-name b { font-weight:800; } .ds-attr { display:block; margin-top:3px; font:700 0.6875rem/1 \"Overpass\",Arial,sans-serif; letter-spacing:0.14em; text-transform:uppercase; color:#424c55; } .ds-nav { margin-left:auto; display:flex; gap:1.5rem; } .ds-nav a { position:relative; color:#161e25; text-decoration:none; font:600 0.9375rem/1 \"Overpass\",Arial,sans-serif; padding-block:6px; } .ds-nav a::after { content:\"\"; position:absolute; left:0; right:0; bottom:0; height:2px; background:#8d2521; transform:scaleX(0); transform-origin:left; transition:transform 320ms cubic-bezier(0.16,1,0.3,1); } .ds-nav a:hover::after, .ds-nav a[aria-current=\"page\"]::after { transform:scaleX(1); } .ds-nav a:focus-visible { outline:2.5px solid #206694; outline-offset:3px; }"
+    },
+    {
+      "name": "Art-Directed Frame",
+      "kind": "card",
+      "refersTo": "frame-property",
+      "description": "Photography slot: tinted plate, mount rule, crop marks, thirds and horizon guide, code, lens and shot brief.",
+      "html": "<figure class=\"ds-frame\"><div class=\"ds-plate\" role=\"img\" aria-label=\"Photograph to come (property): street elevation\"><svg class=\"ds-guide\" viewBox=\"0 0 100 100\" preserveAspectRatio=\"none\" aria-hidden=\"true\"><line x1=\"33.3\" x2=\"33.3\" y1=\"0\" y2=\"100\"/><line x1=\"66.6\" x2=\"66.6\" y1=\"0\" y2=\"100\"/><line x1=\"0\" x2=\"100\" y1=\"33.3\" y2=\"33.3\"/><line x1=\"0\" x2=\"100\" y1=\"66.6\" y2=\"66.6\"/><path class=\"h\" d=\"M0 54 H100\"/><path class=\"m\" d=\"M34 54 V43 L41 36 H79 L86 43 V54 Z\"/></svg><span class=\"ds-crop tl\"></span><span class=\"ds-crop br\"></span><span class=\"ds-code\"><b>Property</b> PR-06 3/2</span><span class=\"ds-lens\">28mm</span><span class=\"ds-dir\">Street elevation emphasizing the long roofline, early morning, lawn in shadow.</span></div></figure>",
+      "css": ".ds-frame { margin:0; max-width:520px; } .ds-plate { position:relative; aspect-ratio:3/2; background:#eedac9; color:#8c4823; overflow:hidden; isolation:isolate; } .ds-plate::before { content:\"\"; position:absolute; inset:22px; border:1px solid color-mix(in oklch, #8c4823 30%, transparent); z-index:-1; } .ds-guide { position:absolute; inset:0; width:100%; height:100%; z-index:-1; } .ds-guide line { stroke:currentColor; stroke-width:1; stroke-dasharray:2 5; opacity:0.35; vector-effect:non-scaling-stroke; } .ds-guide .h { stroke:currentColor; stroke-width:1.4; opacity:0.55; fill:none; vector-effect:non-scaling-stroke; } .ds-guide .m { fill:currentColor; opacity:0.09; } .ds-crop { position:absolute; width:14px; height:14px; border:0 solid #8c4823; } .ds-crop.tl { top:10px; left:10px; border-top-width:1.5px; border-left-width:1.5px; } .ds-crop.br { bottom:10px; right:10px; border-bottom-width:1.5px; border-right-width:1.5px; } .ds-code { position:absolute; top:9px; left:32px; font:500 0.6875rem/1 \"Overpass Mono\",monospace; letter-spacing:0.04em; } .ds-code b { font:700 0.6875rem/1 \"Overpass\",sans-serif; letter-spacing:0.12em; text-transform:uppercase; margin-right:6px; } .ds-lens { position:absolute; right:32px; bottom:9px; font:500 0.6875rem/1 \"Overpass Mono\",monospace; } .ds-dir { position:absolute; left:32px; bottom:28px; max-width:34ch; font:italic 400 1.05rem/1.35 \"Besley\",Georgia,serif; color:#161e25; }"
+    },
+    {
+      "name": "Verified Data Block",
+      "kind": "card",
+      "refersTo": "datablock-head",
+      "description": "Neatlined record with paper-deep head, synthetic marker and tabular values; always closed by source line.",
+      "html": "<div class=\"ds-data\"><div class=\"ds-data-head\"><span class=\"ds-label\">Property record</span><span class=\"ds-synth\">Sample data · fictional</span></div><dl><div><dt>Year built</dt><dd>1957</dd></div><div><dt>Living area</dt><dd>1,720 sq ft</dd></div></dl><p class=\"ds-data-foot\">Listing courtesy of [Listing office]. Source: MLS PIN via IDX feed (sample).</p></div>",
+      "css": ".ds-data { border:1.5px solid #161e25; max-width:520px; font-family:\"Overpass\",Arial,sans-serif; color:#161e25; } .ds-data-head { display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:0.75rem 1rem; border-bottom:1px solid #161e25; background:#e9eee6; } .ds-label { font:700 0.8125rem/1.3 \"Overpass\",sans-serif; letter-spacing:0.08em; text-transform:uppercase; } .ds-synth { display:inline-flex; align-items:center; gap:6px; font:700 0.75rem/1.2 \"Overpass\",sans-serif; letter-spacing:0.1em; text-transform:uppercase; color:#8c4823; } .ds-synth::before { content:\"\"; width:7px; height:7px; border:1.5px solid currentColor; transform:rotate(45deg); } .ds-data dl { display:grid; grid-template-columns:1fr 1fr; margin:0; } .ds-data dl > div { display:flex; justify-content:space-between; gap:1rem; padding:0.7rem 1rem; border-bottom:1px solid oklch(23% 0.018 245 / 0.16); font-size:0.9375rem; } .ds-data dl > div:nth-child(odd) { border-right:1px solid oklch(23% 0.018 245 / 0.16); } .ds-data dt { color:#424c55; } .ds-data dd { margin:0; font-weight:700; font-variant-numeric:tabular-nums lining-nums; } .ds-data-foot { margin:0; padding:0.75rem 1rem; font-size:0.8125rem; line-height:1.5; color:#424c55; }"
+    },
+    {
+      "name": "Town Pin",
+      "kind": "custom",
+      "description": "Populated-place symbol plus spaced-caps lettering; becomes a route diamond when active.",
+      "html": "<a class=\"ds-town-pin\" href=\"#\"><span class=\"ds-town\">Shrewsbury</span></a>",
+      "css": ".ds-town-pin { display:inline-flex; align-items:center; gap:10px; padding:10px 6px 10px 0; color:#161e25; text-decoration:none; } .ds-town-pin::before { content:\"\"; width:9px; height:9px; background:#161e25; border:2px solid #f5f8f4; outline:1px solid #161e25; transition:transform 320ms cubic-bezier(0.16,1,0.3,1), background-color 160ms; } .ds-town { font:600 1rem/1 \"Besley\",Georgia,serif; text-transform:uppercase; letter-spacing:0.32em; margin-right:-0.32em; text-shadow:0 0 2px #f5f8f4, 0 0 4px #f5f8f4, 0 0 10px #f5f8f4; transition:color 160ms; } .ds-town-pin:hover::before, .ds-town-pin:focus-visible::before { background:#8d2521; outline-color:#8d2521; transform:scale(1.35) rotate(45deg); } .ds-town-pin:hover .ds-town, .ds-town-pin:focus-visible .ds-town { color:#8d2521; } .ds-town-pin:focus-visible { outline:2.5px solid #206694; outline-offset:3px; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Quadrangle",
+    "overview": "Every page is a survey sheet of Central Massachusetts. The main content sits inside a neatline (a ruled frame) with coordinate ticks at its corners. Header and footer are the collar (the sheet's printed margin), so credits, brokerage and legal text live there. Choices are legend entries: a map symbol, a name and a note. Towns are lettered the way a topographic map letters populated places. Generated contour terrain is the ground under openings and town pages. Photography is not on hand, so every image slot is an art-directed frame that carries its shot brief, and the frames double as the photographer's shot list.\n\nThe density is a well-set atlas page: generous margins, shared ruled edges instead of floating cards, one red route through each view. The materials are paper, ink linework, contour clay, woodland tint, water blue and a drenched forest field. Motion only reveals the map or the place: contours draw in, a town's hill lifts, frames open like a print pulled from a tray.\n\nSources of truth: `assets/css/tokens.css` (custom properties, canonical OKLCH), `data/palette.json` (hex + measured contrast), and the generated `assets/brand/tokens.json` and `assets/brand/theme.json` (block-theme palette, fonts and spacing presets). The brand book (`brand/index.html`) renders live components from the same CSS.",
+    "keyCharacteristics": [
+      "A 1.5px ink neatline around `<main>`, inset by the collar margin; header and footer sit outside it.",
+      "Besley (a county-atlas Clarendon) carries the voice; Overpass (Highway Gothic) carries the interface and data; Overpass Mono is kept for identifiers.",
+      "Map lettering: towns in widely spaced roman caps, water names in blue italic, a paper halo over terrain.",
+      "Contour terrain (seeded and illustrative, never survey data) as the ground of openings, town heads and the sheet index.",
+      "Legends are the controls: homepage intents, discovery attributes and search filters all share one symbol vocabulary.",
+      "Verified data and editorial voice are visibly separate, and each is labeled.",
+      "2px corners. Paper has corners."
+    ],
+    "rules": [
+      {
+        "name": "The One Route Rule",
+        "body": "Route red marks the way forward and where you are on it: one primary action per view, plus the current position (nav current page, active town, selected station, hot pin). It is never a decorative fill. Its only tinted field is the open-house notice.",
+        "section": "colors"
+      },
+      {
+        "name": "The Field Color Rule",
+        "body": "Forest is drenched across whole bands or fills a chosen state. As text it appears only for the italic turn of a headline and for editorial-voice markers. Selected filters fill forest, not route.",
+        "section": "colors"
+      },
+      {
+        "name": "The Linework Rule",
+        "body": "Contour and ink-faint are for lines and marks. When text needs the contour color, use contour-ink.",
+        "section": "colors"
+      },
+      {
+        "name": "The Water Is Information Rule",
+        "body": "Water blue means link, source or focus. No button is ever filled with water.",
+        "section": "colors"
+      },
+      {
+        "name": "The Map Lettering Rule",
+        "body": "A place name on terrain or in navigation is lettered like a quad sheet: Besley 600, uppercase, letter-spacing 0.32em, with a negative right margin equal to the tracking so it optically centers. It drops to 0.22em or 0.16em at small sizes and to 0.12–0.24em for the giant town-page H1. Water names are Besley italic in water blue, rotated along the feature. Any label over terrain gets the paper halo (stacked `text-shadow` at 2/4/10/18px).",
+        "section": "typography"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Besley speaks: headings, ledes, editorial copy, prices, addresses, legend names. Overpass works: controls, labels, facts, tables, forms. Mono only identifies. Never set data in the serif body voice, and never set a headline in Overpass.",
+        "section": "typography"
+      },
+      {
+        "name": "The Italic Turn Rule",
+        "body": "A headline turns on its second phrase in Besley italic (\"Low roof, *long view*\", \"Ask about *this home*\"). The turn is 400 weight, except at display size, where it stays 800 italic.",
+        "section": "typography"
+      },
+      {
+        "name": "The Neatline Rule",
+        "body": "Content lives inside the sheet. Header, footer, credits, brokerage and legal live in the collar outside it. Nothing escapes the neatline except the lower corner ticks.",
+        "section": "layout"
+      },
+      {
+        "name": "The Shared Edge Rule",
+        "body": "Groups share rules like a sheet index: a 1.5px ink neatline outside, 1px ink or `rule` hairlines inside. Cells, rows and legend entries are divided by rules, never separated into floating rounded cards.",
+        "section": "layout"
+      },
+      {
+        "name": "The Lifted Paper Rule",
+        "body": "If it isn't physically above the sheet (popover, dialog, pin, toast), it has no shadow. Hover never adds shadow; it shifts background to paper-deep, moves arrows 3–4px, or lifts a button by 1px.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** put every page's content inside the sheet: a 1.5px ink neatline inset by `--collar`, with the header, footer, credits and legal in the collar.",
+      "**Do** present choices as legend entries (symbol, Besley name, Overpass note) and reuse the `sym()` vocabulary for intents, attributes and filters.",
+      "**Do** letter towns in Besley 600 caps at 0.32em with a paper halo over terrain, and water in Besley italic water blue.",
+      "**Do** spend route red once per view on the primary action, plus on current position. Fill selected filters with forest.",
+      "**Do** label verified data (water source tag, data block) separately from editorial voice (forest source tag, signed Besley prose), and mark every invented item `.synthetic`.",
+      "**Do** set brokerage attribution in Overpass at label or body size, pulled from settings, subordinate to the team name.",
+      "**Do** give every photo slot an art-directed frame with code, aspect ratio, lens and a one-line brief until real photography replaces it.",
+      "**Do** keep body text at ≥4.5:1 (ink, ink-soft, water, contour-ink, route on paper). Use the 2.5px water focus ring with a 3px offset (paper on forest and route), and 44px targets (40px for chips with spacing)."
+    ],
+    "donts": [
+      "**Don't** float rounded cards in a uniform grid; group with shared rules and stagger editorial spans.",
+      "**Don't** use contour (#b3754f) or ink-faint (#737b83) for small text.",
+      "**Don't** fill buttons with water blue, or use route red as decoration.",
+      "**Don't** put shadow on anything that sits on the sheet. Lifts are for popovers, dialogs, pins and toasts.",
+      "**Don't** set the brokerage in the serif, larger than the team, or with a logo. Don't present the team as an independent brokerage.",
+      "**Don't** present the terrain as survey data or the schematic town positions as to scale.",
+      "**Don't** add kicker labels above headings, bounce, parallax, scroll hijacking or staggered fade-ins on every section.",
+      "**Don't** use black-and-gold, house-roof, key or handshake imagery, stock families, glassmorphism panels, purple gradients, or Inter/Poppins/Montserrat (brief-pinned refusals).",
+      "**Don't** describe who lives somewhere. Discovery symbols and copy describe housing, lots, distance, transit and places only."
+    ]
+  }
+}
